@@ -1,8 +1,10 @@
 Gerenciador de Tarefas
 
+
 Este projeto é uma aplicação web de gerenciamento de tarefas, composta por um backend em formato de API REST e um frontend web.
 
 O sistema permite que usuários se cadastrem, façam login e gerenciem suas tarefas de forma individual.
+
 
 Funcionalidades
 
